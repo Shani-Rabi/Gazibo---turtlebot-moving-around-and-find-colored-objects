@@ -1,5 +1,4 @@
-# RoboticsMini
-
+# Gazibo - turtlebot moving around and find colored objects
 
 
 Code explanation:
